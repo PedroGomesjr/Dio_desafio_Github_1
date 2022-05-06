@@ -1,0 +1,5 @@
+Ia em Python
+
+Ia para ciração de Musicas
+
+RNA para reconhecimentos de sons
